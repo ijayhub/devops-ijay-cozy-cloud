@@ -58,7 +58,7 @@ The project is a simple application that fetches real-time weather data for diff
 
 * [Repo Codes](https://github.com/ijayhub/devops-ijay-cozy-cloud)
 
-* [Blog post](https://dev.to/ijay/30days-devops-challenge-5b3f)
+* [Documentation](https://dev.to/ijay/30days-devops-challenge-5b3f)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
