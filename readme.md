@@ -63,6 +63,8 @@ The project is a simple application that fetches real-time weather data for diff
 * [Blog post]()
 
 
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
