@@ -16,6 +16,7 @@
         </ul>
     </li>
      <li><a href="#technoloy">Technologies Used</a></li>
+    <li><a href="#technical">Technical Architecture</a></li>
     <li><a href="#depedencies">Dependencies</a></li>
     <li><a href="#overview">Code Overview</a></li>
     <li><a href="#challenges">Challenges</a></li>
@@ -44,9 +45,12 @@ The project is a simple application that fetches real-time weather data for diff
 - Open weather API
 
 ### Technical Architecture
+
 <div align="center">
-    <img src="./cover.jpg">
+  <img src="./cover.jpg">
 </div>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
