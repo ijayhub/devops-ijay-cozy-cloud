@@ -43,6 +43,12 @@ The project is a simple application that fetches real-time weather data for diff
 
 - Open weather API
 
+### Technical Architecture
+<div align="center">
+    <img src="./cover.jpg">
+</div>
+
+
 
 #### Dependencies
 
