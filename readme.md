@@ -60,7 +60,7 @@ The project is a simple application that fetches real-time weather data for diff
 
 * [documentation](https://dev.to/ijay/30days-devops-challenge-5b3f)
 
-* [Blog post]()
+* [Blog post](https://dev.to/ijay/how-to-get-an-api-data-and-store-in-aws-s3-3i84)
 
 
 
