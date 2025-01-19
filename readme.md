@@ -4,7 +4,7 @@
     <img src="./output.jpg">
 </div>
 
-# Weather Fetching
+# Real-Time Data Fetching API
 
 <details>
   <summary>Table of Contents </summary>
